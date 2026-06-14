@@ -6,7 +6,9 @@
 
 I am Jiahao Tang. My research interests include Vision-Centric AI, Agentic Coding, and Vision-Language-Action (VLA) models.
 
-I received my M.Eng. and B.Eng. degrees from Sun Yat-sen University. I am currently a Research Assistant at the JPG Lab, Central South University, working on code generation, model evaluation, image-to-image generation, and visual instruction editing.
+I received my M.Eng. and B.Eng. degrees from Sun Yat-sen University. I am currently a Research Assistant at the [CSU-JPG Lab](https://csu-jpg.github.io/), Central South University, under the supervision of Prof. [Alex Jinpeng Wang](https://scholar.google.com/citations?user=UtaAVacAAAAJ&hl=zh-CN).
 
-You can reach me by email at [tangjh36@mail2.sysu.edu.cn](mailto:tangjh36@mail2.sysu.edu.cn), and find my code on [GitHub](https://github.com/accebet).
+My research primarily focuses on multimodal models, especially Vision-Language-Code Alignment. I am also interested in world models and VLA, and I am actively exploring the intersection of these areas.
+
+
 🌟🌟 <span style="color:#c0392b;"><i><strong>I am actively looking for PhD positions starting in Spring/Fall 2027.</strong></i></span>
