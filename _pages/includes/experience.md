@@ -16,7 +16,7 @@ Supervisor: Alex Jinpeng Wang
   Investigated poor text rendering quality in VQ-VAE-based autoregressive unified models, identified visual tokenizer reconstruction as a key bottleneck, and validated RDA through systematic evaluation and ablation studies on Janus-Pro, Lumina-mGPT, and TAR.
 
 ## Algorithm Intern, Guangdong Engineering Center for IoT Chips and Systems
-
+Supervisor: Jianguo Hu
 *2022.05 -- 2023.09*
 
 - Worked on software-hardware co-design algorithms for national and provincial research projects, including AI-assisted EDA for automatic analog IC layout optimization.
@@ -24,7 +24,7 @@ Supervisor: Alex Jinpeng Wang
 - Developed VQA systems based on CLIP, BERT, and BLIP for cross-modal semantic alignment and reasoning.
 
 ## Algorithm Intern, Guangdong Provincial Key Laboratory of Advanced IC Design and Integration Technology
-
+Supervisor: Jianguo Hu
 *2023.10 -- 2025.03*
 
 - Built multimodal understanding systems with Qwen-VL, Whisper, and knowledge graph modules for cross-media intelligent understanding.
