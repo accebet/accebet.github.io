@@ -14,6 +14,7 @@ Junchao Yi<sup>*</sup>, Rui Zhao<sup>*</sup>, <b>Jiahao Tang<sup>*</sup></b>, We
 [<a href="https://github.com/CSU-JPG/FlowInOne.github.io">Project Page</a>][<a href="https://arxiv.org/pdf/2604.06757">arXiv</a>][<a href="https://github.com/CSU-JPG/FlowInOne">Github</a>]<br>
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><a href="images/chart2code.png"><img src='images/chart2code.png' alt="Chart2Code" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
