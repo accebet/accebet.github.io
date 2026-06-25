@@ -11,7 +11,7 @@
 <i>ECCV 2026</i><br>
 Junchao Yi<sup>*</sup>, Rui Zhao<sup>*</sup>, <b>Jiahao Tang<sup>*</sup></b>, Weixian Lei, Linjie Li, Qisheng Su, Zhengyuan Yang, Lijuan Wang, Xiaofeng Zhu, Alex Jinpeng Wang.<br>
 
-[<a href="https://github.com/CSU-JPG/FlowInOne.github.io">Project Page</a>][<a href="https://arxiv.org/pdf/2604.06757">arXiv</a>][<a href="https://github.com/CSU-JPG/FlowInOne">Github</a>]<br>
+[<a href="https://csu-jpg.github.io/FlowInOne.github.io/">Project Page</a>][<a href="https://arxiv.org/pdf/2604.06757">arXiv</a>][<a href="https://github.com/CSU-JPG/FlowInOne">Github</a>]<br>
 
 </div>
 </div>
@@ -23,7 +23,7 @@ Junchao Yi<sup>*</sup>, Rui Zhao<sup>*</sup>, <b>Jiahao Tang<sup>*</sup></b>, We
 <i>ACL Main 2026</i><br>
 <b>Jiahao Tang<sup>*</sup></b>, Henry Hengyuan Zhao<sup>*</sup>, Lijian Wu, Yifei Tao, Dongxing Mao, Yang Wan, Jingru Tan, Min Zeng, Min Li, Alex Jinpeng Wang.<br>
 
-[<a href="https://github.com/CSU-JPG/Chart2Code.github.io">Project Page</a>][<a href="https://arxiv.org/abs/2510.17932">arXiv</a>][<a href="https://github.com/CSU-JPG/Chart2Code">Github</a>]<br>
+[<a href="https://csu-jpg.github.io/Chart2Code.github.io/">Project Page</a>][<a href="https://arxiv.org/pdf/2510.17932">arXiv</a>][<a href="https://github.com/CSU-JPG/Chart2Code">Github</a>]<br>
 
 </div>
 </div>
@@ -35,7 +35,7 @@ Junchao Yi<sup>*</sup>, Rui Zhao<sup>*</sup>, <b>Jiahao Tang<sup>*</sup></b>, We
 <i>CVPR 2026</i><br>
 Dongxing Mao<sup>*</sup>, Alex Jinpeng Wang<sup>*</sup>, <b>Jiahao Tang</b>, Kevin Qinghong Lin, Linjie Li, Zhengyuan Yang, Lijuan Wang, Min Li, Jingru Tan.<br>
 
-[<a href="https://github.com/CSU-JPG/RDA.github.io">Project Page</a>][<a href="https://arxiv.org/abs/2606.01911">arXiv</a>][<a href="https://github.com/CSU-JPG/RDA">Github</a>]<br>
+[<a href="https://csu-jpg.github.io/RDA.github.io/">Project Page</a>][<a href="https://arxiv.org/abs/2606.01911">arXiv</a>][<a href="https://github.com/CSU-JPG/RDA">Github</a>]<br>
 
 </div>
 </div>
